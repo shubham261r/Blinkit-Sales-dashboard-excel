@@ -1,4 +1,4 @@
-# Blinkit-Sales-dashboard-excel
+# Blinkit Sales dashboard excel
 ## Project Overview
 
 This project presents an interactive Excel dashboard built to analyze Blinkit’s sales performance, customer preferences, and outlet distribution. The dashboard leverages Excel features such as pivot tables, slicers, and charts to deliver actionable insights in a simple and accessible format.
